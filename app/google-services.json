@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "317667249829",
+    "project_id": "karthikeyan-6ac37",
+    "storage_bucket": "karthikeyan-6ac37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317667249829:android:9cecff008b672049f7074c",
+        "android_client_info": {
+          "package_name": "com.example.karthikeyan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317667249829-m1aa91tijkdjm72rci44o4j5f2pq81f6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv_Nk9Hh9srKe1TKpY0s_19Ba4zhP9JX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317667249829-m1aa91tijkdjm72rci44o4j5f2pq81f6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
